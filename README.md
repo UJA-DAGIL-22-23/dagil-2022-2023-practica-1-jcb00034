@@ -14,13 +14,14 @@
 **Url del tablero de Trello:** https://trello.com/b/MbT7OvLU/pr%C3%A1ctica-1-desarrollo-%C3%A1gil
 
 #### Tablero al principio
-<img src='/tableroInicial.png' width='200px'>
+<img src='/tableroInicial.PNG' width='800px'>
 
 ### GitHub
 **Usuario de GitHub:** jcb00034
+
 **Url del perfil:** https://github.com/jcb00034
 #### Página de inicio
-<img src='/github.png' width='200px'>
+<img src='/github.PNG' width='800px'>
 
 #### Captura final de Trello
 
