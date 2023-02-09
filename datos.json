@@ -2,6 +2,7 @@
 	"nombre":"José",
 	"apellidos":"Carpio Blanca",
 	"correo":"jcb00034@red.ujaen.es",
+	"fotoAlumno":"/alumno.jpg"
 	"herramientas":[
 		{
 	 	 "nombreHerramienta":"Trello",
