@@ -2,18 +2,11 @@
 	"nombre":"José",
 	"apellidos":"Carpio Blanca",
 	"correo":"jcb00034@red.ujaen.es",
-	"fotoAlumno":"/alumno.jpg"
-	"herramientas":[
-		{
-	 	 "nombreHerramienta":"Trello",
-	 	 "urlTablero":"https://trello.com/b/MbT7OvLU/pr%C3%A1ctica-1-desarrollo-%C3%A1gil",
-	 	 "urlImagenPrincipio":"/tableroInicial.PNG",
-	 	 "urlImagenFinal":"/tableroTerminado.PNG"
-		},{
-	 	 "nombreHerramienta":"Git",
-	 	 "usuario":"jcb00034",
-	 	 "urlPerfil":"https://github.com/jcb00034",
-	 	 "urlImagenInicio":"/github.PNG"
-		}
-	]
+	"fotoAlumno":"/alumno.jpg",
+	"urlTableroTrello":"https://trello.com/b/MbT7OvLU/pr%C3%A1ctica-1-desarrollo-%C3%A1gil",
+	"urlTableroPrincipio":"/tableroInicial.PNG",
+	"urlTableroFinal":"/tableroTerminado.PNG",
+	"usuarioGitHub":"jcb00034",
+	"urlPerfilGitHub":"https://github.com/jcb00034",
+	"urlGitHubInicio":"/github.PNG"
 }
