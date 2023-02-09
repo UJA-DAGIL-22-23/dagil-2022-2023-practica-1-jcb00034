@@ -2,7 +2,7 @@
 ## Práctica 1
 ### Información del alumno
 
-<img src='/alumno.png' width='200px'>
+<img src='/alumno.jpg' width='200px'>
 
 #### Alumno de la asignatura Desarrollo Ágil del grado de Ingeniería Informática
 
